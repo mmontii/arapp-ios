@@ -1,0 +1,111 @@
+# Xcode
+.DS_Store
+*/.DS_Store
+build/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserdatad
+*.xccheckout
+*.moved-aside
+*.xcdebugger
+*.xcscmblueprint
+*.xcscmchecksums
+
+# Swift Package Manager
+Packages/
+Package.pins
+Package.resolved
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+Podfile.swp
+\# Podfile.swo
+\# Podfile.swn
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Code Coverage
+*.xccovreport
+*.xccovarchive
+
+# App specific
+*.appex
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI Previews
+*.db
+
+# Other
+*.orig
+.idea/
+*.iml
+*.swp
+*.swo
+*.swn
+
+# Git Large File Storage (LFS)
+*.a
+*.o
+*.so
+*.dylib
+*.dll
+
+# Exclude built products
+*.app
+*.framework
+*.dSYM
+
+# Xcode environment settings
+xcdebugger/
+xcuserdata/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node modules (if using React Native or similar frameworks)
+node_modules/
+
+# Logs
+*.log
+*.log.*
+
+# Other IDEs
+.idea/
+.vscode/
+
+# Unity specific
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Assets/AssetStoreTools*
+
+# Unity auto generated files
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
