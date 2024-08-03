@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  ArCamp
+
+  Created by Mantas Ercius on 21.07.24.
+  
+*/
+
+/* Content View */
+"TRAM" = "Tram";
+"AR View" = "AR View";
+"Events" = "Events";
+"Map" = "Map";
+"Locations" = "Locations";
+
+
+/* Locations View */
+"Buildings" = "Buildings";
+"Campus Map" = "Campus Map";
+"Dismiss" = "Dismiss";
+
+
+/* PublicTransportView */
+"Navigate to Tram Station" = "Navigate to Tram Station";
+"Upcoming Tram Lines" = "Upcoming Tram Lines";
+"Tram" = "Tram";
+"minutes left" = "minutes left";
+
+/* PublicTransportRowView */
+"in %d minutes" = "in %d minutes";
+
+
+/* HomeView */
+"Active Events" = "Active Events";
+"Upcoming Events" = "Upcoming Events";
+"Past Events" = "Past Events";
+"Show More Events..." = "Show More Events...";
+"Show Less..." = "Show Less...";
+"Events" = "Events";
+
+
+/* EventDetailView */
+"Description" = "Description";
+"%@ - %@" = "%@ - %@";
+
+
+/* Building Detail View */
+"Description" = "Description";
+"Campus" = "Campus";
+"Address" = "Address";
+"Hours of Operation" = "Hours of Operation";
+"Monday to Friday" = "Monday to Friday";
+"Saturday" = "Saturday";
+"Facilities" = "Facilities";

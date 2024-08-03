@@ -1,0 +1,376 @@
+[
+  {
+    "_id": "1",
+    "name": "Gebäude A",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.458036,
+        "longitude": 13.525995
+      },
+      {
+        "type": "side",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.457863,
+        "longitude": 13.525802
+      },
+      {
+        "type": "side",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.457686,
+        "longitude": 13.525582
+      },
+      {
+        "type": "side",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.457542,
+        "longitude": 13.525394
+      }
+    ],
+    "latitude": 52.458036,
+    "longitude": 13.525995,
+    "description": "Gebäude A beherbergt das Dekanat für Fachbereich 5.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 24:00",
+      "saturday": "6:30 - 24:00"
+    },
+    "facilities": ["Dekanat Fachbereich 5"],
+    "departaments": []
+  },
+  {
+    "_id": "2",
+    "name": "Gebäude B",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.457925,
+        "longitude": 13.526816
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.457522,
+        "longitude": 13.526019
+      }
+    ],
+    "latitude": 52.457925,
+    "longitude": 13.526816,
+    "description": "Gebäude B bietet zahlreiche Einrichtungen, darunter Informationsdienste, den AStA, den FSR, das Zentrum für Studierenden-Service (LSC), Studienberatung und Career Service (ZSC), das International Office und Hochschulsportmöglichkeiten.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 24:00",
+      "saturday": "6:30 - 24:00"
+    },
+    "facilities": [
+      "Information",
+      "Aktion Noteingang (Schutz vor rassistischen Übergriffen)",
+      "AStA - Allgemeiner Studierendenausschuss",
+      "FSR - Fachschaftsrat",
+      "Zentrum für Studierenden-Service (LSC)",
+      "Studienberatung & Career Service (ZSC)",
+      "International Office, Hallen 1-4",
+      "Hochschulsport (Halle 4)"
+    ],
+    "departaments": []
+  },
+  {
+    "_id": "3",
+    "name": "Gebäude C",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.456272635570656,
+        "longitude": 13.525901681675919
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.45637899990494,
+        "longitude": 13.526087535160443
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.45661328539133,
+        "longitude": 13.526340587650454
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.45688073755659,
+        "longitude": 13.526673719409205
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.45719420923152,
+        "longitude": 13.527010530656039
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.45768007807224,
+        "longitude": 13.527153971554437
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.457615677448125,
+        "longitude": 13.526958729739572
+      }
+    ],
+    "latitude": 52.456272635570656,
+    "longitude": 13.525901681675919,
+    "description": "Gebäude C umfasst die Dekanate der Fachbereiche 1, 2 und 4 sowie ein Computermuseum, eine KI-Werkstatt und den IDiA Maker Space.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 22:00",
+      "saturday": "6:30 - 18:00"
+    },
+    "facilities": [
+      "Dekanate Fachbereich 1",
+      "Dekanate Fachbereich 2",
+      "Dekanate Fachbereich 4",
+      "Computermuseum",
+      "KI-Werkstatt",
+      "IDiA Maker Space"
+    ],
+    "departaments": []
+  },
+  {
+    "_id": "4",
+    "name": "Gebäude D",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.457,
+        "longitude": 13.527
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.457,
+        "longitude": 13.527
+      }
+    ],
+    "latitude": 52.457,
+    "longitude": 13.527,
+    "description": "Gebäude D beherbergt die Hallen 5, 6 und 7 und ist der Standort für Fachbereich 2.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 22:00",
+      "saturday": "6:30 - 18:00"
+    },
+    "facilities": ["Halle 5", "Halle 6", "Halle 7"],
+    "departaments": ["Fachbereich 2"]
+  },
+  {
+    "_id": "5",
+    "name": "Gebäude E",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.457,
+        "longitude": 13.527
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.457,
+        "longitude": 13.527
+      }
+    ],
+    "latitude": 52.457,
+    "longitude": 13.527,
+    "description": "Gebäude E ist das Zuhause des Fachbereichs 2.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 22:00",
+      "saturday": "6:30 - 18:00"
+    },
+    "facilities": [],
+    "departaments": ["Fachbereich 2"]
+  },
+  {
+    "_id": "6",
+    "name": "Gebäude F",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.45549674183903,
+        "longitude": 13.526328340372352
+      }
+    ],
+    "latitude": 52.45549674183903,
+    "longitude": 13.526328340372352,
+    "description": "Gebäude F umfasst die Fachbereiche 1 und 2.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 22:00",
+      "saturday": "6:30 - 18:00"
+    },
+    "facilities": [],
+    "departaments": ["Fachbereich 1", "Fachbereich 2"]
+  },
+  {
+    "_id": "7",
+    "name": "Gebäude G",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.45554049756331,
+        "longitude": 13.525125063426662
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.455222338103404,
+        "longitude": 13.524811661133578
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.455222338103404,
+        "longitude": 13.524811661133578
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.45562543931146,
+        "longitude": 13.524127863578464
+      }
+    ],
+    "latitude": 52.45554049756331,
+    "longitude": 13.525125063426662,
+    "description": "Gebäude G umfasst eine Bibliothek, eine Mensa, Hörsäle und eine Kaffeebar und ist Standort für Fachbereich 1.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 22:00",
+      "saturday": "6:30 - 18:00"
+    },
+    "facilities": ["Bibliothek", "Mensa", "Hörsäle", "Kaffeebar"],
+    "departaments": ["Fachbereich 1"]
+  },
+  {
+    "_id": "8",
+    "name": "Gebäude H",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.457,
+        "longitude": 13.527
+      },
+      {
+        "type": "side",
+        "accessible": false,
+        "elivator": true,
+        "latitude": 52.457,
+        "longitude": 13.527
+      }
+    ],
+    "latitude": 52.457,
+    "longitude": 13.527,
+    "description": "Gebäude H beherbergt das Forschungs- und Weiterbildungszentrum für Kultur und Informatik (FKI) sowie den Urban Garden.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 22:00",
+      "saturday": "6:30 - 18:00"
+    },
+    "facilities": [
+      "Forschungs- und Weiterbildungszentrum für Kultur und Informatik (FKI)",
+      "Urban Garden (Wiese neben Gebäude H)"
+    ],
+    "departaments": []
+  },
+  {
+    "_id": "9",
+    "name": "Haus der Transformation",
+    "campus": "Wilhelminenhof",
+    "address": "Wilhelminenhofstraße 75A, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.456035002031605,
+        "longitude": 13.526219193488801
+      }
+    ],
+    "latitude": 52.456035002031605,
+    "longitude": 13.526219193488801,
+    "description": "Das Haus der Transformation fördert interdisziplinäre Projekte zur Nachhaltigkeit und vernetzt Studierende, Lehrende, Forschende sowie externe Akteure. Aktuelle Projekte umfassen Tiny Forest Light, Reallabor Eating Walls und Food Fairteiler.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 22:00",
+      "saturday": "6:30 - 18:00"
+    },
+    "facilities": [],
+    "departaments": []
+  },
+  {
+    "_id": "10",
+    "name": "TGS - Technologietransfer- und Gründerzentrum Schöneweide",
+    "campus": "Wilhelminenhof",
+    "address": "Ostendstr. 25, 12459 Berlin",
+    "enterances": [
+      {
+        "type": "main",
+        "accessible": true,
+        "elivator": true,
+        "latitude": 52.457342738932546,
+        "longitude": 13.533687359514277
+      }
+    ],
+    "latitude": 52.457342738932546,
+    "longitude": 13.533687359514277,
+    "description": "Das TGS - Technologietransfer- und Gründerzentrum Schöneweide beherbergt das Rechenzentrum (RZ) und die Zentraleinrichtung Fremdsprachen (ZEFS) und ist Standort für die Fachbereiche 4 und 5.",
+    "hours_of_operation": {
+      "monday_to_friday": "6:30 - 22:00",
+      "saturday": "6:30 - 18:00"
+    },
+    "facilities": [
+      "Rechenzentrum (RZ)",
+      "Zentraleinrichtung Fremdsprachen (ZEFS)"
+    ],
+    "departaments": ["Fachbereich 4", "Fachbereich 5"]
+  }
+]

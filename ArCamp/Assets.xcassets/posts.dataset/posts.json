@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "title": "Enroll in Courses Now!",
+      "description": "Course enrollment for the upcoming semester is now open. Make sure to enroll early to secure your spot.",
+      "date": "2024-04-02",
+      "link": "https://www.htw-berlin.de/studium/studienorganisation/akademischer-kalender/",
+      "important_dates": [
+        "2024-04-02 - 2024-04-04: Orientation Days for Freshmen",
+        "2024-04-03: Classes Begin for Upperclassmen",
+        "2024-04-05: Classes Begin for Freshmen"
+      ]
+    },
+    {
+      "title": "Freshmen Orientation Event",
+      "description": "Welcome to the university! Join the orientation days to get familiar with the campus and meet your fellow students.",
+      "date": "2024-04-02",
+      "link": "https://www.htw-berlin.de/studium/studienorganisation/akademischer-kalender/",
+      "important_dates": [
+        "2024-04-02 - 2024-04-04: Orientation Days for Freshmen"
+      ]
+    },
+    {
+      "title": "Lecture-Free Days",
+      "description": "There will be no lectures on May 10th and 11th, 2024. Use this time to prepare for exams or relax.",
+      "date": "2024-05-10",
+      "link": "https://www.htw-berlin.de/studium/studienorganisation/akademischer-kalender/",
+      "important_dates": ["2024-05-10 - 2024-05-11: Lecture-Free Days"]
+    },
+    {
+      "title": "Online Exam Registration",
+      "description": "Register online for your exams. The registration deadlines are strict, and late registration is not possible.",
+      "date": "2024-06-10",
+      "link": "https://www.htw-berlin.de/studium/studienorganisation/akademischer-kalender/",
+      "important_dates": [
+        "2024-06-10 - 2024-06-25: Exam Registration for the 1st and 2nd Exam Periods",
+        "2024-09-02 - 2024-09-10: Exam Registration for the 2nd Exam Period (and Retake Exams)"
+      ]
+    },
+    {
+      "title": "Credit Transfer for Foreign Studies",
+      "description": "Get your study credits from abroad recognized. Submit your applications by April 15, 2024.",
+      "date": "2024-04-15",
+      "link": "https://www.htw-berlin.de/studium/studienorganisation/akademischer-kalender/",
+      "important_dates": [
+        "until 2024-04-15: Credit Transfer for Foreign Studies",
+        "until 2024-04-15: Enrollment for Applicants",
+        "until 2024-04-15: Registration for Guest and Part-Time Students"
+      ]
+    }
+  ]
+}
